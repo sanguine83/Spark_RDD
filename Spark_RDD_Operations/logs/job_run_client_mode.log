@@ -1,0 +1,14 @@
+hduser@Ubuntu-Master:~/Programs/Spark_RDD_Operations$ date
+Tue Sep 17 14:27:24 EDT 2019
+hduser@Ubuntu-Master:~/Programs/Spark_RDD_Operations$ /home/hduser/Programs/Spark_RDD_Operations/spark_rdd.sh
+19/09/17 14:27:31 INFO fs.TrashPolicyDefault: Namenode trash configuration: Deletion interval = 0 minutes, Emptier interval = 0 minutes.
+Deleted /user/hduser/Spark_RDD_Operations_Files/Output
+Start Of Spark Program: Tue Sep 17 14:27:41 EDT 2019
+End Of Spark Program: Tue Sep 17 14:29:29 EDT 2019
+19/09/17 14:29:41 INFO fs.TrashPolicyDefault: Namenode trash configuration: Deletion interval = 0 minutes, Emptier interval = 0 minutes.
+19/09/17 14:29:54 INFO fs.TrashPolicyDefault: Namenode trash configuration: Deletion interval = 0 minutes, Emptier interval = 0 minutes.
+19/09/17 14:29:54 INFO fs.TrashPolicyDefault: Namenode trash configuration: Deletion interval = 0 minutes, Emptier interval = 0 minutes.
+hduser@Ubuntu-Master:~/Programs/Spark_RDD_Operations$ date
+Tue Sep 17 14:30:03 EDT 2019
+hduser@Ubuntu-Master:~/Programs/Spark_RDD_Operations$ 
+

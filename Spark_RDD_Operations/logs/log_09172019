@@ -1,0 +1,14 @@
+LOG Path :  /home/hduser/Programs/Spark_RDD_Operations/logs
+HDFS Location :  /user/hduser/Spark_RDD_Operations_Files/Output
+###############################################################################
+Submit SPARK Job
+spark-submit --deploy-mode cluster --class RDD_Operations.Driver /home/suresh/IdeaProjects/Spark_RDD_File_Joins/out/artifacts/Spark_RDD_File_Joins_jar/Spark_RDD_File_Joins.jar 100
+###############################################################################
+Consolidate and Clean up files after job completion
+Deleted /user/hduser/Spark_RDD_Operations_Files/Output/_SUCCESS
+Deleted /user/hduser/Spark_RDD_Operations_Files/Output/part-00000
+Deleted /user/hduser/Spark_RDD_Operations_Files/Output/part-00001
+###############################################################################
+Output File : 
+-rw-r--r--   1 hduser supergroup       2980 2019-09-17 14:43 /user/hduser/Spark_RDD_Operations_Files/Output/Result.txt
+###############################################################################
